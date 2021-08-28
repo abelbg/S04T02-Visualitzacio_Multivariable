@@ -1,5 +1,4 @@
-# S04T02-Visualitzacio_Multivariable
- IT Academy - Data Science amb Python. Sprint 4, tasca 2: Visualització de múltiples variables amb Seaborn. 
+# IT Academy - Data Science amb Python. Sprint 4, tasca 2: Visualització de múltiples variables amb Seaborn. 
  
 ## Exercici 1
 Realitza la pràctica del notebook a GitHub "03 EXAMINING DATA" amb seaborn i el dataset "tips".
